@@ -1,2 +1,1 @@
 # rubycode-sample
-# rubycode-sample
